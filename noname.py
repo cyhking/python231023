@@ -1,3 +1,9 @@
+# MAGA, FANNG
+# LAMP
+# MySQL , MyriaDB, PostgressSQL
+
+
+
 # list	[ ]
 # tuple	( )
 # set     {1,2}
@@ -50,3 +56,25 @@
 
 # 정규 표현식
 # [0-9]{4} 랑 \d{4} 는 같음(숫자 4자리)
+
+# DB 안써본 사람은 sqllite 좋음
+
+# SQL(Structure Query Language)
+# DDL: create, alter, drop
+# DML: insert, update, delete, select
+# * CRUD 메서드(create, read, update, delete)
+
+#< 진영 별 클래스 >
+# Java JDBC, ODBC
+# 1. Connection 클래스(연결)
+# 2. Command 클래스(SQL 실행
+# 3. ResultSet 클래스(결과 셋)
+
+# C#, VB
+# 1. Connection 클래스
+# 2. Command 클래스
+# 3. DataSet 클래스
+
+# python
+# 1. Connection 클래스
+# 2. Cursor 클래스(위에 진영에서 2, 3번 역할)
