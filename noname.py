@@ -42,3 +42,11 @@
 # seek()
 # print(f.readline(), end="")  end=""로 줄바꿈 제거
 
+# 파이썬 2.x는 ANSI라서 불편함(한글깨짐 ). 3부터 기본 유니코드(utf-8)
+
+# 문자열처리함수(strip, replace,split, join)
+# strip, replace 등은 데이터를 수정하지 않으므로
+# 리턴받아서 데이터 저장해줘야 함
+
+# 정규 표현식
+# [0-9]{4} 랑 \d{4} 는 같음(숫자 4자리)
