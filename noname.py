@@ -78,3 +78,6 @@
 # python
 # 1. Connection 클래스
 # 2. Cursor 클래스(위에 진영에서 2, 3번 역할)
+
+# 설치패키지 백업
+# C:\Python310\Lib\site-packages 폴더
