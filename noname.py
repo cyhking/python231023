@@ -81,3 +81,9 @@
 
 # 설치패키지 백업
 # C:\Python310\Lib\site-packages 폴더
+
+
+#Jupyter,pandas,matplotlib,seaborn
+#Scipy,NumPy,scikit-learn
+#PyTables, SQLAlchemy, redis
+#Blaze, PySpark

@@ -1,0 +1,3 @@
+#ui없이 빌드하기
+pyinstaller --noconsole --onefile DemoForm3.py
+pyinstaller DemoForm3.spec
